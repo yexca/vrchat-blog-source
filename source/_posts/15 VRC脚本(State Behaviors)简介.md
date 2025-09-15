@@ -13,7 +13,7 @@ tags:
 
 ## Animator Layer Controller
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/03-StateBehaviors/image.6dk3lrhp6lc0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/03-StateBehaviors/image.6dk3lrhp6lc0.webp)
 
 可以改变某一图层的权重(权重为1时正常播放)
 
@@ -29,7 +29,7 @@ tags:
 
 ## Animator Locomotion Control
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/03-StateBehaviors/image.7db4fkj18d80.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/03-StateBehaviors/image.7db4fkj18d80.webp)
 
 在播放动画时禁用动作，位置被锁定
 
@@ -44,7 +44,7 @@ PC下只可上下移动视角，VR可自由移动，但模型不会动
 
 ## Animator Temporary Pose Space
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/03-StateBehaviors/image.6ju2p7xy6nc0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/03-StateBehaviors/image.6ju2p7xy6nc0.webp)
 
 调整视角球，移动至执行动画后额头位置
 
@@ -58,7 +58,7 @@ PC下只可上下移动视角，VR可自由移动，但模型不会动
 
 ## Animator Tracking Control
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/03-StateBehaviors/image.79846t7qt1c0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/03-StateBehaviors/image.79846t7qt1c0.webp)
 
 以下内容为Google翻译+自己修改
 
@@ -84,7 +84,7 @@ Animator Tracking Control 允许您启用或禁用 IK 或模拟化身身体各�
 
 ## Avatar Parameter Driver
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/03-StateBehaviors/image.7e68k4hlb6g0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/03-StateBehaviors/image.7e68k4hlb6g0.webp)
 
 改变给定参数的值
 
@@ -97,7 +97,7 @@ Animator Tracking Control 允许您启用或禁用 IK 或模拟化身身体各�
 
 ## Playable Layer Control
 
-![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/03-StateBehaviors/image.62mmysx318o0.webp)
+![img](https://github.com/yexca/picx-images-hosting/raw/master/2022-VRChat/03-StateBehaviors/image.62mmysx318o0.webp)
 
 与Animator Layer Controller类似，不过是改变一个动画层的权重
 
